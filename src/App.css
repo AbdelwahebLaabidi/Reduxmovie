@@ -1,0 +1,14 @@
+.pop{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.lol{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-right: 50px;
+  padding-left: 50px;
+}
